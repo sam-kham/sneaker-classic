@@ -4,5 +4,6 @@ Sneaker Classic is a website developed and designed for a fictional client.  I w
 
 I have collaborated with an aspiring UI designer, Tony Sivilay, to come up with the layout for this project.
 
-<p align="center"><img src="https://github.com/sam-kham/sneaker-classic/tree/master/pics" alt="screenshot_1"/>
+<p align="center">
+<img src="https://github.com/sam-kham/sneaker-classic/blob/master/pics/shot_1.png" alt="screenshot_1"/>
 </p>
