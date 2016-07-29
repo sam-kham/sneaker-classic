@@ -21,13 +21,12 @@ $(document).ready(function() {
 			$(document).on("scroll", scroll, change);
 		});
 	});
-});//end doc ready
+});
 
 function change() {
     if($(document).scrollTop() > 100) {
         $("#nav").addClass("active");
     } else {
-        //remove the background property so it comes transparent again (defined in your css)
        $("#nav").removeClass("active");
     }
 }
